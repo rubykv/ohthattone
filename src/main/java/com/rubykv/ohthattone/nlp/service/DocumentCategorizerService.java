@@ -20,7 +20,6 @@ public class DocumentCategorizerService {
 		DoccatModel m = new DoccatModel(in);
 		DocumentCategorizerME myCategorizer = new DocumentCategorizerME(m);
 		
-		//String input = "I will not recommend this product";
 		String[] inputText = input.split(" ");
 		double[] outcomes = myCategorizer.categorize(inputText);
 		String category = myCategorizer.getBestCategory(outcomes);
