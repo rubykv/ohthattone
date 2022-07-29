@@ -19,13 +19,20 @@ public class DocumentCategorizerServiceTest {
 	public void testGetCategory() throws IOException {
 		//data - will not recommend
 		String category = documentCategorizerService.getCategory("I will not recommend this product");
-		assertEquals("Tweet", category);
+		assertEquals("Angry", category);
 	}
 	
 	@Test
 	public void testGetCategoryForPolitics() throws IOException {
 		//data - Deputy Prime Minister
-		String category = documentCategorizerService.getCategory("Deputy is the Prime Minister");
-		assertEquals("Politics", category);
+		String category = documentCategorizerService.getCategory("went for a walk");
+		assertEquals("Neutral", category);
+	}
+	
+	@Test
+	public void testGetCategoryForAngry() throws IOException {
+		//data - will not recommend
+		String category = documentCategorizerService.getCategory("It's so bad");
+		assertEquals("Angry", category);
 	}
 }

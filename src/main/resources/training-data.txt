@@ -1,108 +1,37 @@
-Clothes Casual
-Clothes Giza cotton
-Clothes Dry clean
-Clothes Button cuffs
-Clothes Long sleeves
-Clothes Formal shirts
-Clothes T-shirt
-Clothes Belt loops
-Clothes Button and zipped closure
-Clothes Machine wash warm
-Clothes Elasticated waistband
-Clothes Cotton
-Clothes Machine wash cold
-Clothes Pocket at sides
-Clothes Do not dry in direct sunlight
-Clothes Warm iron
-Clothes Wash separately in cold water
-Clothes Use mild detergent
-Clothes Gentle wash
-Clothes Zipped pocket
-Clothes Ribbed collar
-Clothes Llong sleeves
-Clothes Full zipper closure
-Clothes Polyester blend
-Clothes Dry clean
-Clothes Stand collar
-Clothes Polyester
-Clothes Full zip closure
-Clothes Short sleeves
-Clothes Ribbed round neck
-Clothes Pockets on the sides
-Clothes Henley
-Clothes Jersey
-Clothes slipping it in a pocket
-Politics President Donald Trump
-Politics FBI
-Politics National Security Agency
-Politics Obama
-Politics US diplomacy
-Politics committee
-Politics Hillary Clinton
-Politics NSA
-Politics Intelligence Committee
-Politics Campaign
-Politics Delegate
-Politics Ideology
-Politics Machine Politics
-Politics Political Party
-Politics approval voting
-Politics autonomy
-Politics block voting
-Politics by-law
-Politics by-election
-Politics cabinet
-Politics The Public Purse
-Politics Electorate
-Politics Constituents
-Politics Constituency
-Politics Votes
-Politics Polling station
-Politics Prime Minister
-Politics Deputy Prime Minister
-Politics Shadow Prime Minister
-Politics Shadow Minister
-Politics Minister
-Politics Junior Minister
-Politics Cabinet Minister
-Politics Junior Cabinet Minister
-Politics chairman of the House Intelligence Committee
-Tweet happy
-Tweet not happy
-Tweet its bad
-Tweet unfollow
-Tweet horrible service
-Tweet bad service
-Tweet bad customer service
-Tweet Felt thugged
-Tweet unfollow
-Tweet i will unfollow
-Tweet i need money back
-Tweet this is bad
-Tweet you don't care
-Tweet i need refund
-Tweet worst product
-Tweet horrible product
-Tweet do you care
-Tweet what the hell
-Tweet out of business
-Tweet suck it
-Tweet its broken
-Tweet packaging sucks
-Tweet its not good
-Tweet will not recommend
-Tweet waste of money
-Tweet useless product
-Tweet products sucks
-Tweet huge delay
-Tweet customer care sucks
-Tweet overpriced
-Tweet poor quality
-Tweet scam
-Tweet i will unfollow
-Tweet too pricey
-Football	Champions Leagues
-Football	Borussia Dortmund
-Football	Thomas Tuchel
-Football	Arsene Wenger
-Football	Arsenal
+Neutral I went for a walk
+Neutral It is a hot day
+Neutral good to follow a minimalist life
+Neutral working hard is key to success
+Neutral side hustle is one way to come out of 9 to 5 job
+Neutral motivation is the key
+Neutral rules to make money
+Neutral Weather is pleasant
+Angry not happy
+Angry its bad
+Angry horrible service
+Angry bad service
+Angry bad customer service
+Angry making that purchase was such a bad idea
+Angry i will unfollow
+Angry i need money back
+Angry this is bad
+Angry you don't care
+Angry i need refund
+Angry worst product
+Angry horrible product
+Angry do you care
+Angry such a bad customer care service. what the hell.
+Angry out of business
+Angry its broken
+Angry packaging sucks
+Angry its not good
+Angry will not recommend
+Angry waste of money
+Angry useless product
+Angry products sucks
+Angry Now there is a huge delay in delivering products
+Angry customer care sucks
+Angry Oh this product is so overpriced
+Angry For all that money its such a poor quality
+Angry i will unfollow
+Angry why do people buy such pricey stuff
