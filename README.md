@@ -1,3 +1,3 @@
 # ohthattone
 
-Work In Progress
+A simple tone-detector using Apache OpenNLP
